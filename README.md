@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/5Lt9VNS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5Lt9VNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On this step I Created Virtual Machine in Azure
