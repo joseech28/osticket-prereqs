@@ -47,7 +47,7 @@ When creating the VM, allow it to create a new Virtual Network (Vnet)
 <p>
 On this step I will Install and Enable IIS in Windows WITH CGI
 World Wide Web Services and Application Development Features 
-
+on my Virtual Machine 
 </p>
 <br />
 
