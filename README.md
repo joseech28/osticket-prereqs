@@ -98,3 +98,17 @@ On this step From the Installation Files, download and install MySQL 5.5.62.
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/MNC3olz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Typical Setup
+Launch Configuration Wizard (after install)
+Standard Configuration
+setting Password and username
+Open IIS as an Admin and Register PHP from within IIS
+
+</p>
+<br />
+
