@@ -89,3 +89,12 @@ On this step Installation Files, download and install VC_redist.x86.exe.
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ECJ3akq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On this step From the Installation Files, download and install MySQL 5.5.62.
+
+</p>
+<br />
