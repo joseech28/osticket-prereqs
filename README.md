@@ -72,11 +72,11 @@ download and install the Rewrite Module rewrite_amd64_en-US.msi.
 <br />
 
 <p>
-<img src="https://i.imgur.com/zHXkHgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k8mHE1U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On this step I will Install and Enable PHP Manager 
-From my Installation Files, download and install PHP Manager for IIS PHP Manager laterst application.
+Create the directory C:\PHP
+download PHP 7.3.8 php-7.3.8-nts-Win32-VC15-x86.zip and unzip the contents into C:\PHP
 
 </p>
 <br />
