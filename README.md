@@ -142,7 +142,7 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 <br />
 
 <p>
-<img src="https://i.imgur.com/BybqHe0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jyZAhyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Note that some extensions are not enabled
