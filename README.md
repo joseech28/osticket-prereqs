@@ -186,6 +186,28 @@ New Permissions -> Everyone -> All
 </p>
 <br />
 
+</p>
+<br />
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kz7cIfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+Default email (receives email from customers)
+
+
+
+</p>
+<br />
+
+
+
+
 
 
 
