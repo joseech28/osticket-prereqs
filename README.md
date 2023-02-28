@@ -205,6 +205,18 @@ Default email (receives email from customers)
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/qhf4CbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install HeidiSQL.
+Open Heidi SQL
+
+
+
+</p>
+<br />
+
 
 
 
