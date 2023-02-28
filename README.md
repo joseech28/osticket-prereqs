@@ -210,7 +210,10 @@ Default email (receives email from customers)
 </p>
 <p>
 From the Installation Files, download and install HeidiSQL.
-Open Heidi SQL
+Open Heidi SQL Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+
 
 
 
