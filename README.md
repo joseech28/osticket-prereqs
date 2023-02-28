@@ -220,6 +220,46 @@ Create a database called “osTicket”
 </p>
 <br />
 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qhf4CbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
+
+
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qhf4CbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
+
+
+
+
+</p>
+<br />
+
+
+
+
 
 
 
