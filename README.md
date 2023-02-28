@@ -125,3 +125,16 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/x9lp458.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install osTicket v1.15.8
+Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+
+</p>
+<br />
+
