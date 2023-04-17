@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/8iWKRYp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Establish a Resource Group
+1-) Establish a Resource Group
 Make a 2-4 Virtual CPU Windows 10 Virtual Machine (VM).
 Allow the VM to construct a new Virtual Network (Vnet) when creating it.
 </p>
