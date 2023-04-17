@@ -71,7 +71,7 @@ Web Services Features for Application Development
 <img src="https://imgur.com/P9AXzlu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5-) IIS is now istalled.
+5-) IIS is now istalled. 
 </p>
 <br />
 
