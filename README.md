@@ -54,7 +54,7 @@ Allow the VM to construct a new Virtual Network (Vnet) when creating it.
 <img src="https://imgur.com/MDxReJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3-)  Create a Windows 10 Virtual Machine (VM) now is time to grab the private IP adress from azure.
+3-)  Create a Windows 10 Virtual Machine (VM) now is time to grab the public IP address from azure.
 </p>
 <br />
 <p>
