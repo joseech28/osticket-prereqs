@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/8iWKRYp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1-) Build a resource group. 
+1-) Build a resource group in azure. 
 A location for the resource group 
 must be specified when the resource group is created.
 </p>
