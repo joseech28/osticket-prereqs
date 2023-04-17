@@ -44,7 +44,7 @@ must be specified when the resource group is created.
 <img src="https://imgur.com/Achf9CX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2-)After Establishing a Resource Group
+2-) After Establishing a Resource Group
 Make a 2-4 Virtual CPU Windows 10 Virtual Machine (VM).
 Allow the VM to construct a new Virtual Network (Vnet) when creating it.
 </p>
