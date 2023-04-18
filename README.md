@@ -126,19 +126,26 @@ Web Services Features for Application Development
 <img src="https://imgur.com/rOffU59.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12. Download and install MySQL 5.5.62 
+12. Download and install MySQL 5.5.62 Typical Setup
+Launch Configuration Wizard after install 
+Standard Configuration 
+Password1
+
 </p>
 <br />
 <p>
-<img src="https://imgur.com/2L1WMk7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Cj7DA68.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+13. Open IIS as an Admin
+    Register PHP from within IIS
+    Reload IIS (Open IIS, Stop and Start the server)
+
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/Qoj4srx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/64Y9HPX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
