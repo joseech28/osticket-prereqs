@@ -202,10 +202,15 @@ Name Helpdesk Default email (receives email from customers)
 </p>
 <br />
 <p>
-<img src="https://imgur.com/LWkr33U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/K5pqidt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+19. From the Installation Files, download and install HeidiSQL.
+Open Heidi SQL 
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+
 </p>
 <br />
 
