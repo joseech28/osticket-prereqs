@@ -102,14 +102,14 @@ Web Services Features for Application Development
 <img src="https://imgur.com/6yAocFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9.download PHP 7.3.8 php-7.3.8-nts-Win32-VC15-x86.zip and unzip the contents into C:\PHP
+9. Download PHP 7.3.8 php-7.3.8-nts-Win32-VC15-x86.zip and unzip the contents into C:\PHP
 </p>
 <br />
 <p>
-<img src="https://imgur.com/BzWHZUi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mmbSnCy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+10. VC15-x86.zip is now unzipe contents into C:\PHP
 </p>
 <br />
 
