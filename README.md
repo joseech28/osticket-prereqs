@@ -34,9 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/8iWKRYp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Build a resource group in azure. 
-A location for the resource group 
-must be specified when the resource group is created.
+1. Firstly, I created a resource group in Azure for my osTicket system. While creating the resource group, I specified its 
+location.  
 </p>
 <br />
 
@@ -44,9 +43,8 @@ must be specified when the resource group is created.
 <img src="https://imgur.com/Achf9CX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2.  After Establishing a Resource Group
-Make a 2-4 Virtual CPU Windows 10 Virtual Machine (VM).
-Allow the VM to construct a new Virtual Network (Vnet) when creating it.
+2. After that, I set up a virtual machine (VM) on the resource group with 2-4 virtual CPUs running on Windows 10. I also 
+configured the VM to create a new Virtual Network (Vnet) during its setup process.  
 </p>
 <br />
 
@@ -54,16 +52,16 @@ Allow the VM to construct a new Virtual Network (Vnet) when creating it.
 <img src="https://imgur.com/MDxReJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3.  Create a Windows 10 Virtual Machine (VM) now is time to grab the public IP address from azure.
+3. Now that the Windows 10 VM is up and running, I retrieved its public IP address from the Azure portal. This IP address 
+will be used to access the VM remotely.  
 </p>
 <br />
 <p>
 <img src="https://imgur.com/7mvVxFl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Installing and activating IIS with CGI in Windows
-Web Services Features for Application Development 
-
+4. Next, I install and activate the Internet Information Services (IIS) with Common Gateway Interface (CGI) feature on the 
+Windows VM. This feature is essential for running PHP-based applications such as osTicket.  
 </p>
 <br />
 
@@ -71,7 +69,8 @@ Web Services Features for Application Development
 <img src="https://imgur.com/P9AXzlu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. IIS is now istalled. 
+5. Once IIS is installed, I proceed to download and install the PHP Manager for IIS, which helps me to manage the PHP 
+installations and configurations within IIS.  
 </p>
 <br />
 
